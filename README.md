@@ -10,4 +10,4 @@ This is a simple php script to tweet on twitter using Cron Job
 4. Goto your server (hosting provider cpanel) and check for something like "Cron Jobs".
 5. Add a New Cron Job, with the common settings like specify the time intervals and route the cron.php page on your server to the command.
 
-  For Example: /home/username/public_html/folder/cron.php
+  For Example: php /home/username/public_html/folder/cron.php
